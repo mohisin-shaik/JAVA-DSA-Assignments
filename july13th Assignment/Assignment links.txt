@@ -1,0 +1,8 @@
+July 13 assignment Links
+
+q1:-https://www.interviewbit.com/problems/balance-array/
+q2:-
+q3:-
+q4:-https://leetcode.com/problems/range-sum-query-immutable/description/
+q5:-https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+q6:-https://leetcode.com/problems/product-of-array-except-self/description/
