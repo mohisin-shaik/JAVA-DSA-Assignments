@@ -1,0 +1,9 @@
+july 20 Assignment links
+
+Q1:-https://leetcode.com/problems/trapping-rain-water/description/
+
+Q2:-https://leetcode.com/problems/maximum-subarray/description/
+
+Q3:-https://www.interviewbit.com/problems/max-non-negative-subarray/
+
+Q4:-https://leetcode.com/problems/rotate-array/description/
